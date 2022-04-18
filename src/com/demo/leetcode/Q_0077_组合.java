@@ -14,7 +14,7 @@ import java.util.List;
  * @author: huJie
  * @create: 2022-03-29 14:34
  **/
-public class Q_77_组合 {
+public class Q_0077_组合 {
     public static void main(String[] args) {
         int n = 4, k = 2;
         List<List<Integer>> combine = combine(n, k);

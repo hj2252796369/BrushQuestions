@@ -7,7 +7,7 @@ package com.demo.leetcode;
  * @author: huJie
  * @create: 2022-03-31 21:45
  **/
-public class Q_278_第一个错误的版本 {
+public class Q_0278_第一个错误的版本 {
     public static void main(String[] args) {
         int i = firstBadVersion(4);
     }

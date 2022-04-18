@@ -9,7 +9,7 @@ package com.demo.leetcode;
  * @author: huJie
  * @create: 2022-03-31 22:05
  **/
-public class Q_35_搜索插入位置 {
+public class Q_0035_搜索插入位置 {
     public static void main(String[] args) {
         int[] nums = {1, 3, 5, 6};
         int target = 3;

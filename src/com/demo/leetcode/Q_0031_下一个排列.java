@@ -7,7 +7,7 @@ package com.demo.leetcode;
  * @author: huJie
  * @create: 2022-03-29 14:53
  **/
-public class Q_31_下一个排列 {
+public class Q_0031_下一个排列 {
     public static void main(String[] args) {
 
         int[] num = {1,3,5,4,7};

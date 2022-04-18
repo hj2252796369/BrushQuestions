@@ -40,15 +40,14 @@ public class Q_32_II_从上到下打印二叉树II {
     public static void dfs(TreeNode root, int high) {
         if (root != null) {
 
-            if(result.size() <=high){
+            if (result.size() <= high) {
                 result.add(new ArrayList<>());
             }
 
             result.get(high).add(root.val);
 
-
-            dfs(root.left, high+1);
-            dfs(root.right, high+1);
+            dfs(root.left, high + 1);
+            dfs(root.right, high + 1);
         }
     }
 

@@ -11,7 +11,7 @@ import java.util.Arrays;
  * @author: huJie
  * @create: 2022-04-01 16:48
  **/
-public class Q_977_有序数组的平方 {
+public class Q_0977_有序数组的平方 {
     public static void main(String[] args) {
         int[] nums = {-4,-1,0,3,10};
         int[] ints = sortedSquares(nums);

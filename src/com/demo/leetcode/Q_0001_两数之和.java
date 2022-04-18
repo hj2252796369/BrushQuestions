@@ -1,15 +1,15 @@
-package com.demo.niuke;
+package com.demo.leetcode;
 
 import java.util.HashMap;
 
 /**
- * @program: JavaDemo
- * @ClassName 两数之和
+ * @program: BrushQuestions
+ * @ClassName Q_01_两数之和
  * @description:
  * @author: huJie
- * @create: 2022-03-23 15:02
+ * @create: 2022-04-18 21:15
  **/
-public class 两数之和 {
+public class Q_0001_两数之和 {
     public static void main(String[] args) {
         int[] numbers = {3, 2, 4};
         int target = 6;

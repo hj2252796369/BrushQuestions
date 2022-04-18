@@ -9,7 +9,7 @@ package com.demo.leetcode;
  * @author: huJie
  * @create: 2022-03-31 21:34
  **/
-public class Q_704_二分查找 {
+public class Q_0704_二分查找 {
     public static void main(String[] args) {
 
         int[] nums = {-1, 0, 3, 5, 9, 12};
